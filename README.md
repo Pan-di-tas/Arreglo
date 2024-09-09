@@ -1,9 +1,5 @@
 para python
-
-
-
-
-
+El codigo admite entrada de datos, salida de los mismos, al igual que la modificacion y eliminacion de los mismos, por ejemplo en el codigo es como el balance general de las ventas de una tienda x, y vemos cuanto vendio en cada mes, en el codigo de python, cree una clase con varios metodos, el primer metodo declaramos los arreglos que contienen los departamentos y los meses, en el de insertar ventas permite insertar o modificar una venta en una posición específica del arreglo de ventas. tambien valida los datos, de hecho antes de modificar el arreglo se verifican los departamentos y el mes, el tercer metodo busca y devuelve una venta específica de un departamento y un mes. el cuarto metodo establece todas las ventas de un departamento en 0.0, es decir, "elimina" las ventas registradas de ese departamento. el quito metodo verifican si el valor del departamento o el mes están dentro de los índices válidos. el sexto muestra las ventas en formato tabular. Imprime el nombre de los departamentos y los meses, y luego muestra los valores de ventas en un formato claro. en el septimo es un menu para la seleccion de acciones a realizar y el ultimo permite que el código se ejecute solo si este archivo se está ejecutando directamente
 
 
 Para java
